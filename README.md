@@ -2,17 +2,13 @@
 
 ## Обо мне 
 
-Привет! Меня зовут ``{Валерий}``, я начинающий тестировщик. <br>
+Привет! Меня зовут ``Валерий``, я начинающий тестировщик. <br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 
 ## Навыки и технологии
 ``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
 ``SoapUI``, ``Android Studio``,  ``CharlesProxy``, ``Git``, ``Chrome DevTools``,
-
-
-
-
 
 ## Проекты
 
@@ -31,20 +27,20 @@
 
 > <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Ссылка на проект</a>
    (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-> <p> Тест-кейсы для тестирования API:
-https://app.qase.io/project/KR2?case=5&suite=2 
-Логин:
-enudaz228@mail.ru
-Пароль:
-Blood163**
+> <p> Тест-кейсы для тестирования API:</p>
+<p>https://app.qase.io/project/KR2?case=5&suite=2 </p>
+<p>Логин:</p>
+<p> enudaz228@mail.ru</p>
+<p> Пароль:</p>
+<p> Blood163**</p>
 </p>
-> <p> Jira Software:
-Логин
-enudaz228@mail.ru
-Пароль
-Espada2021** </p>
-> <p> Тестирование API
-https://api.postman.com/collections/24851914-ea99e314-e798-41c5-9f38-caa93eb13f31?access_key= </p>
+> <p> Jira Software:</p>
+<p>Логин:</p>
+<p>enudaz228@mail.ru</p>
+<p>Пароль:</p>
+<p>Espada2021** </p>
+> <p> Тестирование API</p>
+<p> https://api.postman.com/collections/24851914-ea99e314-e798-41c5-9f38-caa93eb13f31?access_key= </p>
 
 <p>Выводы (итоги):<p>
 <ol>
